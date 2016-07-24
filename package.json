@@ -1,5 +1,5 @@
 {
-  "name": "adg_react_webapp",
+  "name": "es2015_webpack_setup",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
