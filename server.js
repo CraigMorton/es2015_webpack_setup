@@ -13,5 +13,5 @@ var server = app.listen(2784, function () {
   var host = server.address().address;
   var port = server.address().port;
 
-  console.log('React frontend running at http://%s:%s', host, port);
+  console.log('es2015 webpack site running at http://%s:%s', host, port);
 });
